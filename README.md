@@ -1,5 +1,5 @@
-### Hi there 👋
-<h1>Ritika</h1>
+### Hi there 👋<h1>I'm Ritika</h1>
+
 
 <h2>
 - 🔭 I’m currently working on React.
