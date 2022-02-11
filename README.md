@@ -1,7 +1,6 @@
 ### Hi there 👋, I'm Ritika
-![] ()
 
-I'm a passionate Full Stack Web Developer from India.
+###I'm a passionate Full Stack Web Developer from India.
 
 <h2>
 - 🔭 I’m currently working on React.
