@@ -1,4 +1,4 @@
-![] (https://www.freepik.com/free-vector/freelancer-working-laptop-her-house_11879394.htm#query=girl%20laptop&position=24&from_view=keyword)
+![ ] (https://www.freepik.com/free-vector/freelancer-working-laptop-her-house_11879394.htm#query=girl%20laptop&position=24&from_view=keyword)
 
 <h1 align="center">Hi 👋, I'm Ritika</h1>
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
