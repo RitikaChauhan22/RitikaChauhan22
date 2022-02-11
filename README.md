@@ -13,10 +13,12 @@
 
 - 📫 How to reach me **ritikachauhan456@gmail.com**
 
-- ⚡ Fun fact **I think I love food.**
+- ⚡ Fun fact **I love food.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ritika-chauhan-0aa803210" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ritika-chauhan-0aa803210" height="30" width="40" /></a>
+<a href="https://instagram.com/_chauhan__ritika" target="blank"><img align="center" margin-left="30px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_chauhan__ritika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
