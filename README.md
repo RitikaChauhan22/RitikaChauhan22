@@ -2,10 +2,11 @@
 
 <h1 align="center">Hi 👋, I'm Ritika</h1>
   
- <img width="800" height="500" src="https://static.vecteezy.com/system/resources/previews/000/518/198/original/woman-working-with-computer-bright-colorful-vector-illustration.jpg"> 
-  
+**<img width="800" height="500" src="https://static.vecteezy.com/system/resources/previews/000/518/198/original/woman-working-with-computer-bright-colorful-vector-illustration.jpg">**
 
-<h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
+<hr>
+
+**<h2 align="center">I'm a passionate Full Stack Web Developer from India.</h2>**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikachauhan22" alt="ritikachauhan22" /></a> </p>
 
