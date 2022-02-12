@@ -1,6 +1,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Ritika</h1>
+
+![](https://media-exp1.licdn.com/dms/image/C4D16AQFRmmpbOnh8ww/profile-displaybackgroundimage-shrink_200_800/0/1642655340158?e=1649894400&v=beta&t=Z5r8-QcMWEzG0Tk5R-e0e_ib65DiOSDy7obDIf5c1IA)
+
 <h3 align="center">I'm a passionate Full Stack Web Developer from India.</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikachauhan22" alt="ritikachauhan22" /></a> </p>
