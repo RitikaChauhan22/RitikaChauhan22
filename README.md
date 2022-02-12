@@ -6,7 +6,7 @@
 
 <hr>
 
-**<h2 align="center">I'm a passionate Full Stack Web Developer from India.</h2>**
+**<h2 align="center">Aspiring full-stack web developer with a specialization in MERN stack. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h2>**
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ritikachauhan22" alt="ritikachauhan22" /></a> </p>
 
