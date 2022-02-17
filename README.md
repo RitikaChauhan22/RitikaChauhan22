@@ -9,6 +9,7 @@
 <h2 align="center">Aspiring full-stack web developer with a specialization in MERN stack. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h2>
 
 
+<img align= "right" alt= "coding" width ="400" src = "https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
 
 - 🔭 I’m currently working on **React.**
 
