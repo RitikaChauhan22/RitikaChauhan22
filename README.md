@@ -2,14 +2,14 @@
 
 <h1 align="center">Hi 👋, I'm Ritika</h1>
   
-**<img width="800" height="500" src="https://static.vecteezy.com/system/resources/previews/000/518/198/original/woman-working-with-computer-bright-colorful-vector-illustration.jpg">**
+**<img width="800" height="500" src="https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">**
 
 <hr>
 
 <h2 align="center">Aspiring full-stack web developer with a specialization in MERN stack. Strategic thinker, and a team player with an eye for detail. Looking forward to working in an exciting and challenging work environment.</h2>
 
 
-<img align= "right" alt= "coding" width ="400" src = "https://miro.medium.com/max/1400/0*K2WLMTExLyida7OR.gif">
+<img align= "right" alt= "coding" width ="400" src = "https://static.vecteezy.com/system/resources/previews/000/518/198/original/woman-working-with-computer-bright-colorful-vector-illustration.jpg">
 
 - 🔭 I’m currently working on **React.**
 
