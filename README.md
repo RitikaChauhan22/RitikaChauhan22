@@ -42,7 +42,7 @@
 
 
 
-&nbsp;&nbsp;&nbsp;<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ritikachauhan22&show_icons=true&locale=en" alt="ritikachauhan22" /></p>
+<p><br/><br/><br/><img  src="https://github-readme-stats.vercel.app/api?username=ritikachauhan22&show_icons=true&locale=en" alt="ritikachauhan22" /></p>
 
 <hr>
 
