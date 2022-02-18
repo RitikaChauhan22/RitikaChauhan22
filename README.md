@@ -40,11 +40,9 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikachauhan22&show_icons=true&locale=en&layout=compact" alt="ritikachauhan22" /></p>
 
-<hr>
-<hr>
-<hr>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ritikachauhan22&show_icons=true&locale=en" alt="ritikachauhan22" /></p>
+
+<hr><p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=ritikachauhan22&show_icons=true&locale=en" alt="ritikachauhan22" /></p>
 
 <hr>
 
