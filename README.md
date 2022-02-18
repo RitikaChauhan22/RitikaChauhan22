@@ -38,7 +38,7 @@
 
 <hr>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikachauhan22&show_icons=true&locale=en&layout=compact" alt="ritikachauhan22" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ritikachauhan22&show_icons=true&locale=en&layout=compact" alt="ritikachauhan22" /><br/><br/><?br/><br/><br/></p>
 
 
 
